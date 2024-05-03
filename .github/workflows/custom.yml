@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: nonotnonez/custom-action@main
+      - uses: nonotnonez/thegithubn@main
